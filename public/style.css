@@ -1,0 +1,68 @@
+body {
+  background-color: lightblue;
+
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 60px;
+  color: #1D262E;
+}
+#players {
+  color: #464867;
+}
+
+p {font-family: Helvetica;
+   color: #1D262E;
+   font-size: 40px}
+
+#result {
+  color: #6A6AB2;
+}
+#game {
+  width: 800px;
+  margin: 0 auto;
+}
+#welcome {
+  width: 90%;
+  border: black 3px solid;
+  border-radius: 15px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  background: rgba(120, 120, 120, 0.2);
+}
+#history {
+  width: 50%;
+  border: black 1px solid;
+  border-radius: 10px;
+  background: rgba(120, 120, 120, 0.4);
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+
+}
+#emoji {
+  width: 300px;
+  margin: 0 auto;
+}
+
+ul a {
+  color: black;
+  font-size: 30px;
+}
+#button {
+  width: 200px;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+#display_result {
+  width: 900px;
+  margin: 0 auto;
+}
+button {
+  width: 180px;
+  font-size: 2rem;
+  margin: 0 auto;
+}
